@@ -1,4 +1,4 @@
-# Desafio - Cybersegurança: Phishing para captura de senhas do Facebook
+# Desafio - Cybersegurança: Phishing para captura de senhas do Google
 
 ### Ferramentas
 
@@ -12,8 +12,12 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ``` Web Template ```
+- Template: ``` Google ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.google.com
 
 ### Resutados
+
+![image](https://github.com/JoaoLSouto/phishing_facebook/assets/98335519/f6a15f33-5868-474b-a607-6eeab25386d4)
+
